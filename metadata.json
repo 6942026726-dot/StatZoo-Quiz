@@ -1,0 +1,6 @@
+{
+  "name": "StatZoo - คุณเป็นตัวอะไรในสวนสัตว์?",
+  "description": "แบบทดสอบค้นหาตัวตนคุณใน StatZoo! ตอบคำถามเพื่อดูว่าคุณคือโกลเด้น MWIT, คิงคองสาธิต, เจ้าของสวนสัตว์เชือนๆ หรือสัตว์ตัวไหนในแก๊ง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
